@@ -57,3 +57,4 @@ real-time geofencing server.
 ## Articles
 
 - [Creating Geofences in .NET with Tile38](https://intodot.net/creating-geofences-in-net-with-tile38/) - Walkthrough of geofencing with Tile38 from a .NET application.
+- [Create Geo-aware System: Detecting Whether a User Is Inside the City](https://yusufs.medium.com/create-geo-aware-system-how-to-better-detect-whether-user-is-inside-the-city-bonus-implement-3107292cbc6f) - Comparing approaches to point-in-city detection, with a Tile38 polygon geofencing implementation.
