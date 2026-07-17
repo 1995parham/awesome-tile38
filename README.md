@@ -32,7 +32,8 @@ real-time geofencing server.
 
 ### Go
 
-- [t38c](https://github.com/cjkreklow/t38c) - Client library for Go.
+- [t38c](https://github.com/xjem/t38c) - Feature-rich Go client (archived).
+- [t38c (cjkreklow)](https://github.com/cjkreklow/t38c) - Maintained Go client with a smaller command set.
 
 ### Python
 
